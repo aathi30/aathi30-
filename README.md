@@ -1,4 +1,4 @@
-# aathi30-<h1 align="center">Hi there, I'm Aathi 👋</h1>
+# aathi30<h1 align="center">Hi there, I'm Aathi 👋</h1>
 <p align="center">
   <em>Building things with Java, Spring Boot, Python & JavaScript</em>
 </p>
